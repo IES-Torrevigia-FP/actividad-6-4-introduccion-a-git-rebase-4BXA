@@ -1,0 +1,16 @@
+abraham@abraham-VirtualBox:~/Documentos/dev/actividad-6-4-introduccion-a-git-rebase-4BXA$ git log --oneline --all
+7170d0c (HEAD -> feature-notas) Añade notas iniciales de la funcionalidad
+8325e9a (main) Crea notas en main
+ddaf510 Actualiza changelog a v1.1
+0ba6a55 Crea changelog con versión inicial
+c0179c7 (origin/main, origin/HEAD) add deadline
+20f2714 Initial commit
+
+
+Qué has hecho para resolver el conflicto.
+
+Combinar ambas ramas cambiando el trozo de texto que daba conflicto en notas.md.
+
+Cuándo usarías git rebase --abort
+
+Si en algún momento me hubiera equivocado o quisiera deshacer el rebase completo.

@@ -1,0 +1,11 @@
+abraham@abraham-VirtualBox:~/Documentos/dev/actividad-6-4-introduccion-a-git-rebase-4BXA$ git log --oneline --all
+1968ec0 (HEAD -> feature-notas) Añade notas iniciales de la funcionalidad
+ddaf510 (main) Actualiza changelog a v1.1
+0ba6a55 Crea changelog con versión inicial
+c0179c7 (origin/main, origin/HEAD) add deadline
+20f2714 Initial commit
+
+
+Una explicación (3–4 líneas) de qué ha cambiado en el historial tras el rebase (no el contenido de los archivos, sino la “historia”).
+
+Todos los commits que se mandaron en la rama feature-notas, después del rebase lo que ocurrió fue que a partir del último commit de la rama main se pusieron de seguido todos los commits de la rama feature-notas.

@@ -1,0 +1,14 @@
+abraham@abraham-VirtualBox:~/Documentos/dev/actividad-6-4-introduccion-a-git-rebase-4BXA$ git log --oneline --all
+ddaf510 (HEAD -> main) Actualiza changelog a v1.1
+79577dc (feature-notas) Añade notas iniciales de la funcionalidad
+0ba6a55 Crea changelog con versión inicial
+c0179c7 (origin/main, origin/HEAD) add deadline
+20f2714 Initial commit
+
+
+¿Qué commits exclusivos tiene main?
+main tiene los commits "Crea changelog con versión inicial" y "Actualiza changelog a v1.1"
+
+
+¿Qué commits exclusivos tiene feature-notas?
+El commit "Añade notas iniciales de la funcionalidad"

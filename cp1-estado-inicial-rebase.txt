@@ -1,0 +1,10 @@
+abraham@abraham-VirtualBox:~/Documentos/dev/actividad-6-4-introduccion-a-git-rebase-4BXA$ git branch
+* feature-notas
+  main
+abraham@abraham-VirtualBox:~/Documentos/dev/actividad-6-4-introduccion-a-git-rebase-4BXA$ git log --oneline --all
+79577dc (HEAD -> feature-notas) Añade notas iniciales de la funcionalidad
+0ba6a55 (main) Crea changelog con versión inicial
+c0179c7 (origin/main, origin/HEAD) add deadline
+20f2714 Initial commit
+
+
